@@ -1,3 +1,6 @@
 [submodule "Turbo/vendor/spdlog"]
 	path = Turbo/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "Turbo/vendor/GLFW"]
+	path = Turbo/vendor/GLFW
+	url = https://github.com/mtrimner/glfw
